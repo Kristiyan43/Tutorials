@@ -1,6 +1,6 @@
 # How to make a shodow ditector
 
-###Setup 
+##Setup 
 
 First, start unity then you need a player to get a player right click on the ''sample scene'' 
 then click on 3d object and select cube this is your player. To ''tag'' him as the player you 
