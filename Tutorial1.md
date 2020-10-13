@@ -36,7 +36,7 @@ text above `void start` and delete it than right in it's place this.
 
 This is values that you need a reference to so your code knows what it's meant to do.
 
-Then `inside` of void Start wright this.
+Then `inside of void Start` wright this.
 
 ``` 
     void Start()
