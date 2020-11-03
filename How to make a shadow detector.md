@@ -1,4 +1,4 @@
-# How to make a shadow ditector
+# How to make a shadow detector
 
 ## Setup 
 
