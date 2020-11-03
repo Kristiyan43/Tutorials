@@ -1,4 +1,4 @@
-# How to make a shodow ditector
+# How to make a shadow ditector
 
 ## Setup 
 
