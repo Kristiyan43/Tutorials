@@ -21,7 +21,7 @@ of the public class and delete it then write in it places this.
 ```
 This is the refrenses you need for code to know.
 
-Then you will need to mnake a new void like this.
+Then you will need to make a new void like this.
 ```
 void OnMouseDown()
     {
