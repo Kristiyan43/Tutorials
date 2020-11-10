@@ -23,7 +23,7 @@ big enough to hide the player in the shadow of the wall.
 
 Click on the player and go to inspector after going to the bottom, of inspector and select add 
 component in the search bar wright sun the click new script and press enter. Select the green
-text above `void start` and delete it than right in it's place this.
+text above `void start` and delete it than write in it's place this.
 
 ```
    publice GameObject NewSun;
