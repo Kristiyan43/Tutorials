@@ -24,7 +24,7 @@ Click on the player and go to inspector after going to the bottom, of inspector 
 component in the search bar wright 'move' the click new script and press enter. Then write click
 on the very top where it says ``using UnityEngine;`` and write below it ``using UnityEngine.AI;``
 
-Select the green text above ``void start`` and delete it than right in it places this.
+Select the green text above ``void start`` and delete it than write in it places this.
 
 ```
    public LayerMask whatCanBeClickedon;
